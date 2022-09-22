@@ -10,7 +10,6 @@ fun solution4(n: Long): IntArray {
     while (temp >= 1) {
         result.add((temp % 10).toInt())
         temp /= 10
-        print(temp)
     }
     return result.toIntArray()
 }
