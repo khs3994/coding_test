@@ -1,4 +1,4 @@
-package com.example.coding_test.coding_test_class
+package com.example.coding_test.programers.coding_test_class
 
 fun main() {
     print(solution(intArrayOf(44, 1, 0, 0, 31, 25), intArrayOf(31, 10, 45, 1, 6, 19)))

@@ -1,4 +1,4 @@
-package com.example.coding_test.level1
+package com.example.coding_test.programers.level1
 
 fun main() {
     print(solution2(intArrayOf(1,2,3,4,6,7,8,0)))

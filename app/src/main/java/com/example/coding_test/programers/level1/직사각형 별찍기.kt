@@ -1,4 +1,4 @@
-package com.example.coding_test.level1
+package com.example.coding_test.programers.level1
 
 fun main(args: Array<String>) {
     val (a, b) = readLine()!!.split(' ').map(String::toInt)
