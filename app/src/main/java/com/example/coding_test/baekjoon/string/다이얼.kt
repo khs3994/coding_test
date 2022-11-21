@@ -1,4 +1,4 @@
-package com.example.coding_test.baekjoon
+package com.example.coding_test.baekjoon.string
 
 fun main() {
     val number = readLine().toString()
