@@ -4,10 +4,10 @@ fun main() {
     val size = readLine()!!.split(" ").map { it.toInt() }
     val arr1 = arrayListOf<List<Int>>()
     val arr2 = arrayListOf<List<Int>>()
-    repeat(size[1]) {
+    repeat(size[0]) {
         arr1.add(readLine()!!.split(" ").map { it.toInt() })
     }
-    repeat(size[1]) {
+    repeat(size[0]) {
         arr2.add(readLine()!!.split(" ").map { it.toInt() })
     }
     for (i in 0 until size[0]) {
